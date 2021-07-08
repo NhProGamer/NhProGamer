@@ -2,7 +2,7 @@
 
 ### My Github Stats 📈
 ![](https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&theme=dracula)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&theme=dracula)]
 <!--
 **NhProGamer/NhProGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
