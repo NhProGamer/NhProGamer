@@ -1,7 +1,5 @@
 ### Hello Everyone 👋
 
-### My Tools 🔧
-
 ### My Github Stats 📈
 ![](https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&theme=tokyonight)
