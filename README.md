@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,100:cba6f7&height=180&section=header&text=Néo%20Huyghe&fontSize=45&fontColor=1e1e2e&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,100:cba6f7&height=180&section=header&text=Néo%20Huyghe&fontSize=45&fontColor=1e1e2e&fontAlignY=35"/>
 </p>
 
 # 👋 Salut, moi c’est Néo  
