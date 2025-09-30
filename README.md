@@ -2,13 +2,7 @@
 
 🎯 **Développeur Backend | Étudiant en BUT2 Informatique | À la recherche d’une alternance**  
 💻 Passionné par le backend.
-
----
-
-## 🛠️ Compétences techniques  
-- **Langages :** Go, Java, Node.js, Python, C#, HTML/CSS/JS  
-- **Outils :** Docker, Git, NATS  
-- **Centres d’intérêt :** Backend, Cloud, Web, Gameservers, Docker
+Backend, Cloud, Web, Gameservers, Docker
 
 ---
 
