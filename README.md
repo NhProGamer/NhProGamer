@@ -8,7 +8,7 @@
 ## 🛠️ Compétences techniques  
 - **Langages :** Go, Java, Node.js, Python, C#, HTML/CSS/JS  
 - **Outils :** Docker, Git, NATS  
-- **Centres d’intérêt :** Backend, Cloud, Systèmes distribués, Réseaux  
+- **Centres d’intérêt :** Backend, Cloud, Web, Gameservers, Docker
 
 ---
 
