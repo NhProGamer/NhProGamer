@@ -2,7 +2,7 @@
 
 🎯 **Développeur Backend | Étudiant en BUT2 Informatique | À la recherche d’une alternance**  
 💻 Passionné par le backend.
-Backend, Cloud, Web, Gameservers, Docker
+❤️ Backend, Cloud, Web, Gameservers, Docker
 
 ---
 
