@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,100:cba6f7&height=200&section=header&text=Néo%20Huyghe&fontSize=50&fontColor=1e1e2e&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,100:cba6f7&height=200&section=header&text=Néo%20Huyghe&fontSize=50&fontColor=1e1e2e&fontAlignY=35"/>
 </p>
 
 <h1 align="center">
@@ -54,8 +54,7 @@ neo := Developer{
 
 ### 🐺 Shamus
 **Backend de jeu Loup-Garou en ligne**
-- 🛠️ Stack: Go, NATS, WebSocket
-- 🎯 Architecture microservices
+- 🛠️ Stack: Go, WebSocket
 - ⚡ Gestion temps réel des parties
 - 🔐 Authentification & sécurité
 
@@ -67,7 +66,6 @@ neo := Developer{
 - 📦 Plugins PaperMC/Spigot
 - 🌐 Proxies Velocity/BungeeCord
 - 🔌 APIs & outils d'administration
-- 🏗️ Systèmes de matchmaking
 
 </td>
 </tr>
@@ -126,12 +124,12 @@ neo := Developer{
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&langs_count=8" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NhProGamer&theme=catppuccin-mocha&hide_border=false&border=313244&ring=94e2d5&fire=cba6f7&currStreakLabel=94e2d5" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NhProGamer&theme=catppuccin-mocha&hide_border=false&border=313244&ring=94e2d5&fire=cba6f7&currStreakLabel=94e2d5" height="150"/>
 </p>
 
 <p align="center">
