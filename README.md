@@ -19,9 +19,10 @@
 ---
 
 ## 📊 Statistiques GitHub  
-![](https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NhProGamer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="165">
+</p>
 ---
 
 ## 📫 Me contacter  
